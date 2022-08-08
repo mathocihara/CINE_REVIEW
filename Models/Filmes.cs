@@ -13,7 +13,7 @@ namespace API_CINEMA.Models
 
         [Column("Filme")]
         [Display(Name = "Filme")]
-        public char Filme { get; set; }
+        public string Filme { get; set; }
 
         [Column("Ingresso")]
         [Display(Name = "Ingresso")]
@@ -21,7 +21,7 @@ namespace API_CINEMA.Models
 
         [Column("Crítica")]
         [Display(Name = "Crítica")]
-        public char Crítica { get; set; }
+        public float Crítica { get; set; }
 
 
     }
