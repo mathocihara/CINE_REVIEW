@@ -19,9 +19,9 @@ namespace API_CINEMA.Models
         [Display(Name = "Ingresso")]
         public float Ingresso { get; set; }
 
-        [Column("Filme")]
-        [Display(Name = "Filme")]
-        public char Filme { get; set; }
+        [Column("Crítica")]
+        [Display(Name = "Crítica")]
+        public char Crítica { get; set; }
 
 
     }
