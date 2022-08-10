@@ -1,7 +1,7 @@
 # Cine Review
 
 
-API_CINEMA é uma API GraphQL inspirado nos sites e fóruns voltados para o mercado de Cinema, para você que é um cinéfolo de carteirinha, poder gravar suas próprias críticas e informações gerais de um filme específico. Sem precisar se preocupar com o armazenamento cheio!!
+Cine Review é uma API GraphQL inspirado nos sites e fóruns voltados para o mercado de Cinema, para você que é um cinéfolo de carteirinha, poder gravar suas próprias críticas e informações gerais de um filme específico. Sem precisar se preocupar com o armazenamento cheio!!
 
 ----------
 
