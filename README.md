@@ -5,7 +5,7 @@ Cine Review é uma API GraphQL inspirado nos sites e fóruns voltados para o mer
 
 ----------
 
-### Como instalar a API:  💻
+### Como iniciar a API:  💻
 
 1.  Clonar repositório  [https://github.com/mathocihara/API_CINEMA](https://github.com/carolsaint/cineDev.git)
 2.  Instalar os pacotes necessários utilizando a plataforma de gerenciamento Nuget ou o Console Nuget;
