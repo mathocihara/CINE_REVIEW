@@ -1,7 +1,17 @@
+using API_CINEMA.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+
+builder.Services.AddDbContext<Conexao>(options => options.UseSqlServer
+("Data Source=EBANX\\SQLEXPRESS;Initial Catalog=API_CINEMA;Integrated Security=True"));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
 
 var app = builder.Build();
 
