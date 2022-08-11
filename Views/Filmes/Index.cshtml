@@ -7,7 +7,9 @@
 <h1>Index</h1>
 
 <p>
+
     <a asp-action="Create">Nova Crítica</a>
+
 </p>
 <table class="table">
     <thead>
@@ -39,6 +41,7 @@
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>

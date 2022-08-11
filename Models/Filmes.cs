@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace API_CINEMA.Models
@@ -21,7 +21,7 @@ namespace API_CINEMA.Models
 
         [Column("Crítica")]
         [Display(Name = "Crítica")]
-        public string Crítica { get; set; }
+        public float Crítica { get; set; }
 
 
     }
