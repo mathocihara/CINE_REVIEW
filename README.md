@@ -19,6 +19,15 @@ Cine Review é uma API GraphQL inspirado nos sites e fóruns voltados para o mer
 
 6.  Iniciar o servidor por meio do depurador 
 
+7. Clique no link, na aba superior chamado "Filmes" para testar o método Get, Post, Update, Delete
+
+8.Clique no botão "Nova Crítica" e preencha as três entidades e envie as informações.
+
+9.Clique no botão "Editar" e edite as informações que você quer mudar
+
+10. Clique no botão "Detalhes" para ver todas as informações de um filme
+
+11. Clique no botão "Delete" para deletar as informações postas.
 
 
 ### Entidades existentes
