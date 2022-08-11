@@ -32,10 +32,8 @@ body {
     .headerMarca > h1 {
         display: flex;
         font-size: 150px;
-        background-image: url("https://www.computeclondrina.com.br/img/products/brilho-glitter-3g-ouro_1_1200.jpg");
-        -webkit-background-clip: text;
-        color: rgba(0,0,0,0);
         border: 2px solid #F0EABE;
+        color: aliceblue;
     }
 
 .headerMarca > p {
