@@ -64,11 +64,13 @@ Dependências necessárias para o ambiente de desenvolvimento
 -   ASP NET 
 -   SQL Server
 -   ENTIFY FRAMEWORK CORE
+-   NuGet
 
 ### Documentação:  📖
 
 
 -   [Minimal API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio)
+-   [Tutorial MINIMAL API](https://www.youtube.com/watch?v=zr3QiQDZ0-k&list=PLL5IVXErVfscI22qYsnkVjrPdaoHTI09j&index=2&t=3s&ab_channel=DEVNETCOREValdirFerreira)
 
 
 ----------
