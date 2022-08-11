@@ -1,41 +1,20 @@
 # Cine Review
 
 
-Cine Review é uma API GraphQL inspirado nos sites e fóruns voltados para o mercado de Cinema, para você que é um cinéfolo de carteirinha, poder gravar suas próprias críticas e informações gerais de um filme específico. Sem precisar se preocupar com o armazenamento cheio!!
+API_CINEMA é uma API GraphQL inspirado nos sites e fóruns voltados para o mercado de Cinema, para você que é um cinéfolo de carteirinha, poder gravar suas próprias críticas e informações gerais de um filme específico. Sem precisar se preocupar com o armazenamento cheio!!
 
-----------
 
-### Como iniciar a API:  💻
+# Como Rodar a API:  💻
 
 1.  Clonar repositório  [https://github.com/mathocihara/API_CINEMA](https://github.com/carolsaint/cineDev.git)
+
 2.  Instalar os pacotes necessários utilizando a plataforma de gerenciamento Nuget ou o Console Nuget;
 
-3. Fazer a sua conexão com o SQLServer e ajustar a string de conexão no  arquivo "Program.cs"
+3. Rodar no Depurador
 
-4. Clicar no "Gerenciador de Pacotes do NuGet" que se localiza dentro na aba superior, no botão "Ferramentas"
+### PRÉ-REQUISITOS
 
-5. Entrar no "Console do Gerenciador de Pacotes" e criar o tabela do Banco de dados no SQL Server, pelo seguinte comando:
-- Update-database -Context Conexao.
-
-6.  Iniciar o servidor por meio do depurador 
-
-7. Clique no link, na aba superior chamado "Filmes" para testar o método Get, Post, Update, Delete
-
-8.Clique no botão "Nova Crítica" e preencha as três entidades e envie as informações.
-
-9.Clique no botão "Editar" e edite as informações que você quer mudar
-
-10. Clique no botão "Detalhes" para ver todas as informações de um filme
-
-11. Clique no botão "Delete" para deletar as informações postas.
-
-
-### Entidades existentes
-
--   Filmes
--   Preço
- - Crítica 
-
+ Tenha em seu computador: GIT, Visual Studio juntamente com o ASP NET CORE 6.0
 
 ### Dependências para desenvolvimento:  📋
 
@@ -58,19 +37,32 @@ Dependências necessárias para o ambiente de desenvolvimento
 [ILUSTRAR IMAGE]
 ----------
 
+
+
+
+
+
+### Entidades existentes
+
+-   Filmes
+-   Preço
+ - Crítica 
+
+
+
+
+
 ### Tecnologias usadas:  💻
 
 -   C#
 -   ASP NET 
 -   SQL Server
 -   ENTIFY FRAMEWORK CORE
--   NuGet
 
 ### Documentação:  📖
 
 
 -   [Minimal API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio)
 -   [Tutorial MINIMAL API](https://www.youtube.com/watch?v=zr3QiQDZ0-k&list=PLL5IVXErVfscI22qYsnkVjrPdaoHTI09j&index=2&t=3s&ab_channel=DEVNETCOREValdirFerreira)
-
 
 ----------
