@@ -1,18 +1,132 @@
-html {
-  font-size: 14px;
-}
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
+
+
+body {
+    background-color: #F0EABE;
+}
+
+.headerMarca {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Oswald', sans-serif;
+    background-color: #19282F;
+    padding: 3rem;
+    height: 100%;
+}
+
+    .headerMarca > h1 {
+        display: flex;
+        font-size: 150px;
+        background-image: url("https://www.computeclondrina.com.br/img/products/brilho-glitter-3g-ouro_1_1200.jpg");
+        -webkit-background-clip: text;
+        color: rgba(0,0,0,0);
+        border: 2px solid #F0EABE;
+    }
+
+.headerMarca > p {
+ display:flex;
+ font-size: 100px;
+ color:black;
+}
+
+.menuIdeia {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 2rem;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 5rem;
+}
+
+.demonstracao {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.demonstracaoApi {
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #820000;
+}
+
+.blocoDemonstracao {
+    display: flex;
+    border: 1px solid black;
+    align-self: center;
+    flex-direction: column;
+    width: 60%;
+    margin: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #F0EABE;
+}
+
+.ImagemTexto {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    .ImagemTexto > h4 {
+        display: flex;
+        margin: 10px;
+        font-size: 30px;
+        border: 2px solid black;
+        padding: 1rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+.sobreNos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    .sobreNos > h1 {
+        display: flex;
+        margin: 2rem;
+    }
+
+.linha {
+    height: 200px;
+    width: 10px;
+    background-color: black;
+    border-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
