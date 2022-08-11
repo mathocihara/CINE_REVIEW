@@ -1,3 +1,6 @@
+![LOGO](https://user-images.githubusercontent.com/100290301/184063325-7c70c0da-327b-41e0-a09e-28fb36a58cc2.png)
+
+
 # Cine Review
 
 
@@ -33,6 +36,12 @@ Dependências necessárias para o ambiente de desenvolvimento
 - Install-Package Microsoft.EntityFrameworkCore.Design 
 - Install-Package Microsoft.EntityFrameworkCore.SqlServer
 
+
+###### Exemplo da instalação do "Microsoft.EntityFrameworkCore" 
+
+
+![Vídeo1](https://user-images.githubusercontent.com/100290301/184064171-36ec6f88-b0f7-4c6c-a6ee-9d3e63c0ae11.gif)
+
 6. Após isso já está pronto para ser usado em seu códigos, lembre-se de referencia-los nas paginas que for usar sua função, exemplo:
 [ILUSTRAR IMAGE]
 ----------
@@ -66,3 +75,10 @@ Dependências necessárias para o ambiente de desenvolvimento
 -   [Tutorial MINIMAL API](https://www.youtube.com/watch?v=zr3QiQDZ0-k&list=PLL5IVXErVfscI22qYsnkVjrPdaoHTI09j&index=2&t=3s&ab_channel=DEVNETCOREValdirFerreira)
 
 ----------
+
+# RESULTADO PRONTO
+<div>
+<img src="https://user-images.githubusercontent.com/100290301/184065205-e9fbbdcc-48aa-4ab2-9a89-8fd61eb7c088.mp4"  />
+</div>
+
+https://user-images.githubusercontent.com/100290301/184065205-e9fbbdcc-48aa-4ab2-9a89-8fd61eb7c088.mp4
